@@ -1,5 +1,5 @@
 # Geeklog-Persian
-Geeklog CMS Persian Translation
+Geeklog CMS Persian Language
 
 Geeklog is an open source application for managing dynamic web content. It is written in PHP and supports MySQL or PostgreSQL as the database backend.
 
